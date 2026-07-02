@@ -7,7 +7,6 @@ Cada año, miles de jóvenes se enfrentan a una de las decisiones más cruciales
 Para responder a esta necesidad nace **StartU**, una plataforma y propuesta enfocada en guiar a estudiantes de preparatoria a través de un acompañamiento personalizado. Nuestro objetivo es brindar las herramientas necesarias para que cada estudiante descubra su camino ideal mediante un proceso estructurado de exploración y análisis.
 
 ## Nuestro Objetivo
-![Uploading LOGO START U.gif…]()
 
 Ayudar a los estudiantes de preparatoria a tomar una decisión informada y consciente sobre su futuro académico y profesional, asegurando que su elección de carrera se alinee con su identidad, metas y aptitudes.
 
